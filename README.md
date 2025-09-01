@@ -62,7 +62,7 @@ This project illustrates the creation of a Power Pages site using **Microsoft Po
 
 ## Acknowledgments
 
-- Tutorial by **Pragmatic Works** — *Learn with the Nerds: Power Pages Beginner to Pro* :contentReference[oaicite:17]{index=17}  
+- Tutorial by **Pragmatic Works** — *Learn with the Nerds: Power Pages Beginner to Pro*  
 - Official documentation and community contributors for Power Pages and Power Platform.
 
 ---
